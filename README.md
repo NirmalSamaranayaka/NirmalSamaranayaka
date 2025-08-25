@@ -1,14 +1,16 @@
 <!-- Profile README for GitHub: Nirmal Samaranayaka -->
 
 <h1 align="center">👋 Hi, I’m Nirmal Samaranayaka</h1>
+
 <p align="center">
 💻 Full Stack Technical Leader | .NET & React/Angular Expert | Cloud-Native Architect | Microservices & Micro Frontend Specialist  
 </p>
 
 <p align="center">
-  <a href="mailto:nirmal.fullstack@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-nirmal.fullstack%40gmail.com-red"></a>
+ <!-- <img src="https://komarev.com/ghpvc/?username=nirmalsamaranayaka&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" /> -->
+  <a href="https://www.credly.com/users/nirmalsamaranayaka"><img alt="Certifications" src="https://img.shields.io/badge/Certifications-Microsoft%20%7C%20AWS-green"></a>
   <a href="https://www.linkedin.com/in/nirmalucsc/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue"></a>
-  <a href="https://www.credly.com/users/nirmalsamaranayaka"><img alt="Certifications" src="https://img.shields.io/badge/Certifications-Microsoft%20%7C%20AWS-orange"></a>
+  <a href="mailto:nirmal.fullstack@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-nirmal.fullstack%40gmail.com-orange"></a>
 </p>
 
 ---
