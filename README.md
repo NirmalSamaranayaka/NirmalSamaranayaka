@@ -31,7 +31,7 @@ From **government platforms in Singapore and Dubai** to **enterprise automotive 
 `.NET 6/7/8/9/10`, ASP.NET Core, C#, Web API, WCF, gRPC, REST, SOAP, Microservices  
 
 **Frontend**  
-React, Redux, MobX, React Query, Angular, Micro Frontends, TypeScript, JavaScript, HTML/CSS, jQuery  
+React, Redux, MobX, React Query, Angular, Micro Frontends, TypeScript, JavaScript, MUI,Angular Meterial, Truffle, Solidity, Web3, Moralis, HTML, SCSS, CSS, jQuery  
 
 **Cloud & DevOps**  
 Azure, AWS, Docker, Kubernetes, Helm, CI/CD (Azure DevOps, Jenkins), Git/TFS/TFVC  
