@@ -19,7 +19,7 @@
 
 I’m a **Senior .NET Full Stack Developer & Technical Lead** with **13+ years of global experience** in building **enterprise-grade, cloud-native software** across **Europe, USA, Asia, and the Middle East**.  
 
-From **government platforms in Singapore and Dubai** to **enterprise automotive tools in Sweden** — I’ve architected and delivered **secure, scalable, and future-ready systems**.  
+I’ve **architected and delivered secure, scalable, and future-ready systems,** including **government platforms in Singapore and Dubai**, enterprise **IoT tools in Singapore,US** and **transformative automotive industry solutions in Europe**—modernizing tech stacks to achieve high scalability.  
 
 - 🏆 **Leadership Roles**: Full Stack Tech Lead, Security Lead, Scrum Master  
 - 🌍 **Experience Across**: USA, UK, EU, Singapore, Dubai, Sweden, Sri Lanka  
