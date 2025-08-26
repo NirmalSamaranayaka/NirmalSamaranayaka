@@ -124,17 +124,20 @@ Outside client work, I enjoy experimenting and sharing open-source ideas:
 ## 📊 GitHub Stats
 
 <p align="center">
+  <!-- Core stats -->
   <img
-    src="https://github-readme-stats.vercel.app/api?username=nirmalsamaranayaka&show_icons=true&count_private=true&include_all_commits=true&theme=radical"
+    src="https://github-readme-stats.vercel.app/api?username=nirmalsamaranayaka&show_icons=true&count_private=true&include_all_commits=true&theme=radical&show=last-updated"
     height="165"
     alt="GitHub stats"
   />
+  <!-- Top languages -->
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirmalsamaranayaka&layout=compact&langs_count=8&theme=radical"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirmalsamaranayaka&layout=compact&langs_count=8&theme=radical&show=last-updated"
     height="165"
     alt="Top languages"
   />
 </p>
+
 
 <!-- 
 <p align="center">
