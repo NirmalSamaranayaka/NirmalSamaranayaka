@@ -29,28 +29,28 @@ I’ve **architected and delivered secure, scalable, and future-ready systems,**
 
 ## 🧰 Technical Expertise
 
-**Backend**  
+💻 **Backend**  
 `.NET 6/7/8/9/10`, ASP.NET Core, .NET Framework, C#, Web API, WCF, gRPC, REST, SOAP, Node.js, Express, Python, Microservices, RabbitMQ, SignalR, JWT, Identity Server, Ocelot API Gateway, Serverless Functions (Azure & AWS Lambda), EF Core/EF6, Dapper, LINQ, JSON-DB, SQLite
 
-**Frontend**  
+🎨 **Frontend**  
 React, Redux, MobX, React Query, Angular (6–16), Micro Frontends, TypeScript, JavaScript, HTML, CSS, SCSS, Bootstrap, Tailwind, Angular Material, MUI, Kendo UI/ Telerik, jQuery, Vue.js, Flex UI, Electron, Razor Pages, Truffle, Solidity, Web3, Moralis, ApexCharts, JQGrid
 
-**Cloud & DevOps**  
+☁️ **Cloud & DevOps**  
 Azure (PAAS, Functions, App Services, AKS, Blob Storage, Active Directory, AD B2C), AWS (Lambda, API Gateway, CloudFront, ECS, EC2, S3, Athena, Glue, Cognito, Route 53, Fargate, WAF), Docker, Kubernetes, Helm, CI/CD (Azure DevOps, Jenkins, PowerShell Build Scripts, Docker Registry), SonarQube, Application Insights
 
-**Data & BI**  
+📊 **Data & BI**  
 MS SQL Server, PostgreSQL, Oracle (9i–12c), MongoDB, DynamoDB, MySQL, SQLite, SSIS/SSRS, Crystal Reports, RDLC, Power BI, Link Server, ETL Processes
 
-**Architecture & Practices**  
+🏛️ **Architecture & Practices**  
 Clean Architecture, DDD, SOLID, OOP/OOD, TDD, Agile (Scrum, SAFe, Kanban), Secure Coding, Design Patterns, Microservices, Micro Frontends, Asynchronous Tasks, Event-driven Architecture, Multi-database Communication, Version-controlled Deployment, CI/CD Pipelines
 
-**Testing & Automation**  
+🧪 **Testing & Automation**  
 xUnit, NUnit, MSTest, Moq, Jasmine, Karma, Cypress, Jest, Selenium WebDriver, Locust, Test Automation Frameworks, API Testing (Swagger, Postman)
 
-**Collaboration & Productivity Tools**  
+🤝 **Collaboration & Productivity Tools**  
 Git, TFS, TFVC, Bitbucket, Visual Studio, VS Code, Jira, Confluence, Slack, SharePoint
 
-**Miscellaneous**  
+🛠️ **Miscellaneous**  
 WPF, Windows Services, Electron, SMTP & SMS Gateway Integration, Active Directory & Single Sign-On, OAuth, JWT, Reflection in C#, Task Parallel Library, EverMonitor, Winston Logger
 
 ---
