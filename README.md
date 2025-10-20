@@ -41,13 +41,6 @@ Azure (PAAS, Functions, App Services, AKS, Blob Storage, Active Directory, AD B2
 📊 **Data & BI**  
 MS SQL Server, PostgreSQL, Oracle (9i–12c), MongoDB, DynamoDB, MySQL, SQLite, SSIS/SSRS, Crystal Reports, RDLC, Power BI, Link Server, ETL Processes
 
-🧠 **AI & Machine Learning**
-Languages & Frameworks: Python, PyTorch, TensorFlow, NumPy, Pandas, Scikit-learn, Hugging Face Transformers, FastAPI, Flask
-LLMs & Generative AI: OpenAI API (GPT, ChatGPT), Custom GPT Functions, Fine-tuning, Prompt Engineering
-Data Science & Analytics: Data preprocessing, Feature Engineering, Predictive Analytics, Time Series Forecasting, NLP Pipelines, Computer Vision, Tabular & Unstructured Data Analysis
-AI Integration & Projects: Integrated AI/ML models into enterprise apps, AI-powered dashboards, AI microservices, custom GPT chatbots, real-time recommendations, anomaly detection, MLOps pipelines with Python, Docker, Kubernetes, cloud deployment
-Cloud for AI: Azure ML, AWS SageMaker, Serverless AI functions, GPU/CPU compute orchestration
-
 🏛️ **Architecture & Practices**  
 Clean Architecture, DDD, SOLID, OOP/OOD, TDD, Agile (Scrum, SAFe, Kanban), Secure Coding, Design Patterns, Microservices, Micro Frontends, Asynchronous Tasks, Event-driven Architecture, Multi-database Communication, Version-controlled Deployment, CI/CD Pipelines
 
@@ -60,12 +53,18 @@ Git, TFS, TFVC, Bitbucket, Visual Studio, VS Code, Jira, Confluence, Slack, Shar
 🛠️ **Miscellaneous**  
 WPF, Windows Services, Electron, SMTP & SMS Gateway Integration, Active Directory & Single Sign-On, OAuth, JWT, Reflection in C#, Task Parallel Library, EverMonitor, Winston Logger
 
-🤖 **AI Tooling for Coding**
-Code Generation & Assistance: GitHub Copilot, OpenAI Codex, ChatGPT Code Functions, Claude, Cursor
-Code Quality & Review: SonarLint, DeepCode, Codiga, AI-powered linters
-Testing & Automation: AI-assisted unit test generation, AI-driven debugging, Test coverage prediction
-Documentation & Code Understanding: DocGPT, AI-powered code summarizers, Natural language code explanation tools
-Integration & Deployment: OpenAI API for automated scripts, LangChain for coding automation, Custom GPTs for dev workflows, Python scripting with AI functions
+🧠 **AI & Machine Learning**   
+- Languages & Frameworks: Python, PyTorch, TensorFlow, NumPy, Pandas, Scikit-learn, Hugging Face Transformers, FastAPI, Flask
+- LLMs & Generative AI: OpenAI API (GPT, ChatGPT), Custom GPT Functions, Fine-tuning, Prompt Engineering, LangChain, Vector Databases (FAISS, Pinecone, Milvus)
+- Data Science & Analytics: Data preprocessing, Feature Engineering, Predictive Analytics, Time Series Forecasting, NLP Pipelines, Computer Vision, Tabular & Unstructured Data Analysis
+- Cloud for AI: Azure ML, AWS SageMaker, Serverless AI functions, GPU/CPU compute orchestration
+
+🤖 **AI Tooling for Coding**       
+- Code Generation & Assistance: GitHub Copilot, OpenAI Codex, ChatGPT Code Functions, Claude, Cursor, Tabnine, Codeium 
+- Code Quality & Review: SonarLint, DeepCode, Codiga, AI-powered linters
+- Testing & Automation: AI-assisted unit test generation, AI-driven debugging, Test coverage prediction
+- Documentation & Code Understanding: DocGPT, AI-powered code summarizers, Natural language code explanation tools
+- Integration & Deployment: OpenAI API for automated scripts, LangChain for coding automation, Custom GPTs for dev workflows, Python scripting with AI functions
 
 ---
 
