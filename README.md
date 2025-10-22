@@ -54,10 +54,10 @@ Git, TFS, TFVC, Bitbucket, Visual Studio, VS Code, Jira, Confluence, Slack, Shar
 WPF, Windows Services, Electron, SMTP & SMS Gateway Integration, Active Directory & Single Sign-On, OAuth, JWT, Reflection in C#, Task Parallel Library, EverMonitor, Winston Logger
 
 🧠 **AI & Machine Learning**   
-- Languages & Frameworks: Python, PyTorch, TensorFlow, NumPy, Pandas, Scikit-learn, Hugging Face Transformers, FastAPI, Flask
-- LLMs & Generative AI: OpenAI API (GPT, ChatGPT), Custom GPT Functions, Fine-tuning, Prompt Engineering, LangChain, Vector Databases (FAISS, Pinecone, Milvus)
-- Data Science & Analytics: Data preprocessing, Feature Engineering, Predictive Analytics, Time Series Forecasting, NLP Pipelines, Computer Vision, Tabular & Unstructured Data Analysis
-- Cloud for AI: Azure ML, AWS SageMaker, Serverless AI functions, GPU/CPU compute orchestration
+- Languages & Frameworks : Python, PyTorch, TensorFlow, NumPy, Pandas, Scikit-learn, Hugging Face Transformers, FastAPI, Flask
+- LLMs & Generative AI : OpenAI API (GPT, ChatGPT), Custom GPT Functions, Fine-tuning, Prompt Engineering, LangChain, Vector Databases (FAISS, Pinecone, Milvus)
+- Data Science & Analytics : Data preprocessing, Feature Engineering, Predictive Analytics, Time Series Forecasting, NLP Pipelines, Computer Vision, Tabular & Unstructured Data Analysis
+- Cloud for AI : Azure ML, AWS SageMaker, Serverless AI functions, GPU/CPU compute orchestration
 
 🤖 **AI Tooling for Coding**       
 - Code Generation & Assistance: GitHub Copilot, OpenAI Codex, ChatGPT Code Functions, Claude, Cursor, Tabnine, Codeium 
