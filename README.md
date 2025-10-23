@@ -87,7 +87,7 @@ WPF, Windows Services, Electron, SMTP & SMS Gateway Integration, Active Director
 Outside client work, I enjoy experimenting and sharing open-source ideas:  
 
 - 💰 **Crypto & Blockchain Experiments** — Built small-scale tools exploring crypto-trading APIs & wallet utilities  
-- 📦 **NPM Packages** — Published reusable front-end utilities (React/TypeScript helpers, UI components)  
+- 📦 [**NPM Packages**](https://www.npmjs.com/~nirmalsamaranayaka)   — Published reusable front-end utilities (React/TypeScript helpers, UI components)  
 - 🧪 **Open-Source Labs** — Micro frontends, clean architecture templates, Node/Express APIs, Dockerized projects  
 - 🎮 **Tech Tinkering** — Exploring AI integrations, automation scripts, and side projects just for fun  
 
